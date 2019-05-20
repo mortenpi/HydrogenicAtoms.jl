@@ -3,6 +3,10 @@ uuid = "1c8e3ea8-7acc-11e9-0d41-1b96f69f82bc"
 authors = ["Morten Piibeleht <morten.piibeleht@gmail.com>"]
 version = "0.1.0"
 
+[deps]
+BSplines = "8759ff0c-cd99-11e8-1c1c-d94a817e6fcc"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
 [compat]
 julia = "1"
 
