@@ -4,7 +4,7 @@
 deps = ["BandedMatrices", "FastGaussQuadrature", "LinearAlgebra", "RecipesBase", "SparseArrays", "Test"]
 git-tree-sha1 = "22efc093f3156944693a6df12903867c4f4e0604"
 repo-rev = "master"
-repo-url = "git@github.com:mortenpi/BSplines.jl.git"
+repo-url = "https://github.com/mortenpi/BSplines.jl.git"
 uuid = "8759ff0c-cd99-11e8-1c1c-d94a817e6fcc"
 version = "0.1.0"
 
