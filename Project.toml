@@ -1,0 +1,13 @@
+name = "HydrogenicAtoms"
+uuid = "1c8e3ea8-7acc-11e9-0d41-1b96f69f82bc"
+authors = ["Morten Piibeleht <morten.piibeleht@gmail.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
