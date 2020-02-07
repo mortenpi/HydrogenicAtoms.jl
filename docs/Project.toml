@@ -1,0 +1,5 @@
+[deps]
+AtomicLevels = "10933b4c-d60f-11e8-1fc6-bd9035a249a1"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+HydrogenicAtoms = "1c8e3ea8-7acc-11e9-0d41-1b96f69f82bc"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
